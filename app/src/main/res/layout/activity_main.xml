@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/placeholder"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.arm07.android.smellstastyy.MainActivity">
+
+
+    <!--
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="com.arm07.android.smellstastyy.ListFragment"/>
+-->
+</FrameLayout>
