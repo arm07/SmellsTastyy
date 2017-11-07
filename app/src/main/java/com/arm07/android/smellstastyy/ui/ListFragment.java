@@ -1,7 +1,8 @@
-package com.arm07.android.smellstastyy;
+package com.arm07.android.smellstastyy.ui;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
@@ -9,11 +10,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.arm07.android.smellstastyy.ListAdapter;
+import com.arm07.android.smellstastyy.LoggingFragment;
+import com.arm07.android.smellstastyy.R;
+
 /**
  * Created by rashmi on 11/5/2017.
  */
 
-public class ListFragment extends LoggingFragment {
+public class ListFragment extends Fragment {
 
     public interface OnListRecipeSelected{
         void onRecipeSelected(int index);

@@ -5,13 +5,13 @@
     android:id="@+id/placeholder"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context="com.arm07.android.smellstastyy.MainActivity">
+    tools:context="com.arm07.android.smellstastyy.ui.MainActivity">
 
 
-    <!--
+    <!-- Used in Relative/linear layout to hold the fragment
     <fragment
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:name="com.arm07.android.smellstastyy.ListFragment"/>
--->
+        android:nacom.arm07.android.smellstastyy.ui.ListFragmentment"/>
+    -->
 </FrameLayout>

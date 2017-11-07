@@ -7,6 +7,9 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.arm07.android.smellstastyy.model.Recipes;
+import com.arm07.android.smellstastyy.ui.ListFragment;
+
 
 /**
  * Created by rashmi on 11/5/2017.

@@ -1,4 +1,6 @@
-package com.arm07.android.smellstastyy;
+package com.arm07.android.smellstastyy.model;
+
+import com.arm07.android.smellstastyy.R;
 
 /**
  * Created by rashmi on 11/5/2017.
